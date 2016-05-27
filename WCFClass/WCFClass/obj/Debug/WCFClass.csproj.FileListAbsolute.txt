@@ -1,0 +1,5 @@
+c:\users\atsyh\documents\visual studio 2013\Projects\WCFClass\WCFClass\obj\Debug\WCFClass.csprojResolveAssemblyReference.cache
+c:\users\atsyh\documents\visual studio 2013\Projects\WCFClass\WCFClass\bin\Debug\WCFClass.dll
+c:\users\atsyh\documents\visual studio 2013\Projects\WCFClass\WCFClass\bin\Debug\WCFClass.pdb
+c:\users\atsyh\documents\visual studio 2013\Projects\WCFClass\WCFClass\obj\Debug\WCFClass.dll
+c:\users\atsyh\documents\visual studio 2013\Projects\WCFClass\WCFClass\obj\Debug\WCFClass.pdb
