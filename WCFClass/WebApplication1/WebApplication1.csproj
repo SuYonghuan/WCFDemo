@@ -79,13 +79,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WCFClass\WCFClass.csproj">
-      <Project>{917fc4a7-51bc-4f29-89d9-489e20d866a6}</Project>
-      <Name>WCFClass</Name>
-    </ProjectReference>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadata Include="Service References\" />
+    <ProjectReference Include="..\WcfServiceLibrary1\WCFClass.csproj">
+      <Project>{92771e8a-602b-404e-b587-4df99f1384d8}</Project>
+      <Name>WCFClass</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

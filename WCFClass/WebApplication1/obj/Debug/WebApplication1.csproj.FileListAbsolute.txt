@@ -6,3 +6,11 @@ c:\Users\AtSyh\documents\visual studio 2013\Projects\WCFClass\WebApplication1\ob
 c:\Users\AtSyh\documents\visual studio 2013\Projects\WCFClass\WebApplication1\obj\Debug\WebApplication1.pdb
 c:\Users\AtSyh\documents\visual studio 2013\Projects\WCFClass\WebApplication1\bin\WCFClass.dll
 c:\Users\AtSyh\documents\visual studio 2013\Projects\WCFClass\WebApplication1\bin\WCFClass.pdb
+C:\Users\AtSyh\Source\Repos\WCFDemo\WCFClass\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\AtSyh\Source\Repos\WCFDemo\WCFClass\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\AtSyh\Source\Repos\WCFDemo\WCFClass\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\AtSyh\Source\Repos\WCFDemo\WCFClass\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\AtSyh\Source\Repos\WCFDemo\WCFClass\WebApplication1\bin\WebApplication1.dll
+C:\Users\AtSyh\Source\Repos\WCFDemo\WCFClass\WebApplication1\bin\WebApplication1.pdb
+C:\Users\AtSyh\Source\Repos\WCFDemo\WCFClass\WebApplication1\bin\WcfServiceLibrary1.dll
+C:\Users\AtSyh\Source\Repos\WCFDemo\WCFClass\WebApplication1\bin\WcfServiceLibrary1.pdb
